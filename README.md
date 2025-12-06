@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-💻 Learning CSE / AI & ML concepts<br>⚙️ Exploring projects, coding, and open-source<br>📚 Always trying to improve myself through practice
+💻 Learning MERN & AI/ML<br>⚙️ Exploring projects, coding, and open-source<br>📚 Always trying to improve myself through practice
 
 
 ## 🌐 Socials:

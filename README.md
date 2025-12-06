@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**imkrit7/imkrit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 💻 Learning CSE / AI & ML concepts<br>⚙️ Exploring projects, coding, and open-source<br>📚 Always trying to improve myself through practice
 

@@ -52,7 +52,7 @@
 
 ---
 
-## 🐞 My GitHub Stats:
+## 🐞 My GitHub Stats:-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krit-k7&show_icons=true&locale=en&layout=compact" alt="krit-k7" /></p>
 

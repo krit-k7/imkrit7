@@ -75,7 +75,7 @@
 
 ---
 
-## 🍥 Extras:
+## 🍥 Extras:-
 
 - 😄 Fun fact: *I break my code more than I fix it, but I still enjoy coding!*  
 - 💭 I learn faster when my code errors 😆  

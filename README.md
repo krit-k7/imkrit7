@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about coding, exploring MERN stack & building beginner-friendly projects!
+  🚀 Passionate about coding, exploring MERN stack & building beginner-friendly projects
 </p>
 
 ---

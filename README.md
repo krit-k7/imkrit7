@@ -61,7 +61,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krit-k7&" alt="krit-k7" /></p>
 ---
 
-## 📫 Let's Connect:
+## 📫 Let's Connect:-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">

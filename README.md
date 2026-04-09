@@ -38,7 +38,7 @@
 
 ---
 
-## 🎨 Languages & Tools:
+## 🎨 Languages & Tools:-
 
 <p align="left">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>

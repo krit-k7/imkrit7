@@ -25,7 +25,7 @@
 
 ---
 
-## 🤝 Ready to collaborate on:
+## 🤝 Ready to collaborate on:-
 
 <p align="left">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
